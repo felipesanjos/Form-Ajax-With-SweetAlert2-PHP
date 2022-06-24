@@ -1,0 +1,1 @@
+Formulário simples em HTML + PHP com Ajax e feedbacks com SweetAlert2.
